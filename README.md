@@ -1,4 +1,4 @@
 # Connect Four
 
-A CLI connect four game, with a bot able to play other devootcamp's bots through Twitter.
-That bot's AI (made by me!) is SO SMART, that it might not loose...!
+This was a group project during [DevBootcamp](http://www.devbootcamp.com/).
+We built a CLI Connect Four game, and also a BOT, able to play again others through Twitter.
